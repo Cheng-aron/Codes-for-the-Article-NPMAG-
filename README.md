@@ -13,7 +13,7 @@ This GitHub repository provides the MATLAB scripts implementing the operator/alg
 
 ## 📊 Dataset Access (Zenodo)
 The datasets required to run these codes are hosted on Zenodo and are saved in MATLAB `.mat` format. 
-**Download the data here:https://doi.org/**
+**Download the data here: https://doi.org/10.5281/zenodo.19249784**
 
 The Zenodo dataset includes:
 1. **Forward Modeling Data (`Forward_Modeling_Data.mat`)**: Synthetic data generated for the simulation and numerical verification of the operator.
