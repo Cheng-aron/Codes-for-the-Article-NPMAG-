@@ -8,7 +8,7 @@ To ensure the reproducibility of our research, the corresponding datasets (inclu
 *Note: The field survey was conducted in an area with a concealed sulfide deposit in Jilin Province, China. As the area belongs to a commercial mining right, true geographic coordinates of the survey lines are withheld due to confidentiality requirements.*
 
 ## 💻 Repository Content (Codes)
-This GitHub repository provides the MATLAB scripts implementing the operator/algorithm proposed in the article:
+This GitHub repository provides the MATLAB scripts implementing the operator/algorithm proposed in the article.
 
 
 ## 📊 Dataset Access (Zenodo)
