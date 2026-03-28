@@ -11,10 +11,6 @@ To ensure the reproducibility of our research, the corresponding datasets (inclu
 This GitHub repository provides the MATLAB scripts implementing the operator/algorithm proposed in the article.
 
 
-## 📊 Dataset Access (Zenodo)
-The datasets required to run these codes are hosted on Zenodo and are saved in MATLAB `.mat` format. 
-**Download the data here: https://doi.org/10.5281/zenodo.19249784**
-
 The Zenodo dataset includes:
 1. **Forward Modeling Data (`Forward_Modeling_Data.mat`)**: Synthetic data generated for the simulation and numerical verification of the operator.
 2. **Field Electrical Data (`Electrical_Data.mat`)**: Acquired using the **ELOG-4 High-Power 3D Induced Polarization (IP) System** (Guoke Instruments Co., Ltd.).
